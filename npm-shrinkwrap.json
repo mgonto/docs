@@ -28,9 +28,9 @@
       "resolved": "git://github.com/auth0/server-apis#7eb6256fd2f9544a58a4f9dca9f23510dc032554"
     },
     "auth0-server-platforms": {
-      "version": "0.1.13",
-      "from": "auth0-server-platforms@git://github.com/auth0/server-platforms#f561d1cc013f63d49457e07dbe57d756e88caf86",
-      "resolved": "git://github.com/auth0/server-platforms#f561d1cc013f63d49457e07dbe57d756e88caf86"
+      "version": "0.1.14",
+      "from": "auth0-server-platforms@git://github.com/auth0/server-platforms#196e09a29daf0d238b58740a9ca500ff18646dc5",
+      "resolved": "git://github.com/auth0/server-platforms#196e09a29daf0d238b58740a9ca500ff18646dc5"
     },
     "connect": {
       "version": "2.28.3",
