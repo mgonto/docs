@@ -1,7 +1,8 @@
 {
   "name": "auth0-docs",
   "version": "0.0.1",
-  "npm-shrinkwrap-version": "5.1.0",
+  "npm-shrinkwrap-version": "5.2.0",
+  "node-version": "v0.10.24",
   "dependencies": {
     "async": {
       "version": "0.2.10",
