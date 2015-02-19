@@ -116,13 +116,16 @@
           { "title": "Sharepoint", "url": "/integrations/sharepoint" },
           { "title": "SpringCM", "url": "/integrations/springcm" },
           { "title": "ZenDesk", "url": "/integrations/zendesk" },
-          { "title": "Zoom", "url": "/integrations/zoom" }
+          { "title": "Zoom", "url": "/integrations/zoom" },
+          { "title": "Slack", "url": "/integrations/slack" },
+          { "title": "Sharepoint Apps", "url": "/integrations/sharepoint-apps" }
         ]
       },
       {
         "title": "Core Concepts",
         "icon": "icon-question-sign",
         "items": [
+          { "title": "Overview", "url":"/overview"},
           { "title": "Applications", "url":"/applications"},
           { "title": "Rules", "url":"/rules"}
         ]
@@ -131,9 +134,9 @@
         "title": "Help Topics",
         "icon": "icon-question-sign",
         "items": [
-          { "title": "Real life scenarios", "url":"/scenarios"},
+          { "title": "Scenarios", "url":"/scenarios"},
           { "title": "User Profile", "url":"/user-profile"},
-          { "title": "Web Apps vs Web APIs", "url": "/apps-apis" },
+          { "title": "Web Apps vs. Web APIs", "url": "/apps-apis" },
           { "title": "Logout", "url":"/logout"},
           { "title": "Connector", "url":"/connector"},
           { "title": "Single Sign On (SSO)", "url":"/sso/single-sign-on"},
@@ -150,7 +153,6 @@
           { "title": "Link Accounts", "url": "/link-accounts" },
           { "title": "Custom Signup", "url": "/custom-signup" },
           { "title": "Multifactor Auth (beta)", "url": "/mfa" },
-          { "title": "SharePoint Apps (beta)", "url": "/sharepoint-apps"},
           { "title": "Password Policies (beta)", "url": "/password-strength"},
           { "title": "User Migration (beta)", "url": "/migrating"},
           { "title": "Legacy Widget", "url":"/login-widget2"}
