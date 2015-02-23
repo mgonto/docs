@@ -139,4 +139,7 @@
 }, {
   "from": "/symfony-tutorial",
   "to": "/server-platforms/symfony"
+},{
+  "from": "/sharepoint-apps",
+  "to": "/integrations/sharepoint-apps"
   }]
