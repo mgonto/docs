@@ -113,7 +113,7 @@
           { "title": "New Relic", "url": "/integrations/new-relic" },
           { "title": "Office 365", "url": "/integrations/office-365" },
           { "title": "Salesforce", "url": "/integrations/salesforce" },
-          { "title": "Sharepoint", "url": "/integrations/sharepoint" },
+          { "title": "SharePoint", "url": "/integrations/sharepoint" },
           { "title": "SpringCM", "url": "/integrations/springcm" },
           { "title": "ZenDesk", "url": "/integrations/zendesk" },
           { "title": "Zoom", "url": "/integrations/zoom" },
