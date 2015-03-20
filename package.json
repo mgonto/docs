@@ -6,7 +6,7 @@
   "dependencies": {
     "async": "~0.2.9",
     "auth0-application-types": "git://github.com/auth0/application-types#0.1.1",
-    "auth0-client-platforms": "git://github.com/auth0/client-platforms#0.2.0",
+    "auth0-client-platforms": "git://github.com/auth0/client-platforms#0.2.1",
     "auth0-native-platforms": "git://github.com/auth0/native-platforms#0.2.0",
     "auth0-server-apis": "git://github.com/auth0/server-apis#0.2.2",
     "auth0-server-platforms": "git://github.com/auth0/server-platforms#0.2.0",
